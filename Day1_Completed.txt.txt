@@ -1,0 +1,2 @@
+Day 1 completed.
+Project setup, ETL, NAV fetching, AMFI validation and GitHub setup completed.
